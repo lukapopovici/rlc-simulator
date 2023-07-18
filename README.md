@@ -22,17 +22,35 @@ To start using the program, open circuit.exe within the root folder of the progr
 
 To check the value of a component, simply click on the corresponding image on the circuit, and the value, along with the unit it's measured in, will be displayed on top.
 
+
+https://github.com/lukapopovici/rlc-simulator/assets/128390767/33729698-fb73-43d9-8964-5e2ecc260402
+
+
 ### Modifying the value of a component
 
 To modify the value of a component, click on the "Valori RLC" button on the bottom-left of the window. This will open a menu as a parallel process that allows you to edit the value of the desired component. Simply change the number next to its name and then click on "START!". Floating-point numbers are allowed.
+
+
+https://github.com/lukapopovici/rlc-simulator/assets/128390767/9475f492-f90e-4f50-b515-16d91fae9b97
+
 
 ### Rendering the voltage graph
 
 To render the graph of the voltage across the capacitor, press the button on the middle-bottom of the window. This action triggers the rendering of the capacitor's voltage function, specifically for the initial 300 nanoseconds of the circuit's operation.
 
+
+
+https://github.com/lukapopovici/rlc-simulator/assets/128390767/db104274-1b3e-47b8-9892-dd4cf3feea31
+
+
+
 ### Getting circuit variables
 
 On the bottom-right corner of the window, you can press the "Calcule" button to get the value of a variable specific to the circuit. Simply select its name from the menu that will pop up, then click on the "Calculeaza" button. The value will be printed on the top of the main window.
+
+
+https://github.com/lukapopovici/rlc-simulator/assets/128390767/636c06cf-1fe5-4c4a-94cc-e026764adda8
+
 
 ## Use Case
 
