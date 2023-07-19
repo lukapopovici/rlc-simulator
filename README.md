@@ -1,3 +1,5 @@
+Documentatia in limba romana poate fi gasita [aici](/romana.md).
+
 # RLC Simulator
 
 <p align="center">
